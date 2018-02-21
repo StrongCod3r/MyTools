@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Tree>
+  <Category Name="Dir1">
+    <Category Name="Dir2">
+      <Software Name="Calculadora">
+        <PathExe>C:\\Windows\\System32\\calc.exe</PathExe>
+      </Software>
+    </Category>
+  </Category>
+  <Software Name="Notepad">
+    <PathExe>C:\\Windows\\notepad.exe</PathExe>
+  </Software>
+  <Category Name="Dir3">
+    <Category Name="Dir4">
+      <Software Name="Notepad">
+        <PathExe>C:\\Windows\\notepad.exe</PathExe>
+        <Omega>C:\\Windows\\cmd.exe</Omega>
+      </Software>
+    </Category>
+  </Category>
+</Tree>

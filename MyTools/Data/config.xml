@@ -1,0 +1,169 @@
+<MyTools Version="1.0">
+  <Category>
+    <Software name="bin">
+      <PathIcon>icons\10.ico</PathIcon>
+      <PathExe>bin\</PathExe>
+    </Software>
+    <Category name="DEBUGGERS">
+      <Software name="x32dbg">
+        <PathCache>cache\12.ico</PathCache>
+        <PathExe>bin\DEBUGGERS\x64dbg\x64dbg\release\x32\x32dbg.exe</PathExe>
+      </Software>
+      <Software name="x64dbg">
+        <PathCache>cache\13.ico</PathCache>
+        <PathExe>bin\DEBUGGERS\x64dbg\x64dbg\release\x64\x64dbg.exe</PathExe>
+      </Software>
+    </Category>
+    <Category name=".NET">
+      <Software name="dnSpy">
+        <PathCache>cache\0.ico</PathCache>
+        <PathExe>bin\NET\dnSpy\dnSpy.exe</PathExe>
+      </Software>
+      <Software name="ILSpy">
+        <PathCache>cache\1.ico</PathCache>
+        <PathExe>bin\NET\ILSpy_Master_2.4.0.1963_Binaries\ILSpy.exe</PathExe>
+      </Software>
+    </Category>
+    <Category name="WINDOWS">
+      <Category name="ENVIROMENT">
+        <Software name="rapidee">
+          <PathCache>cache\4.ico</PathCache>
+          <PathExe>bin\WINDOWS\VARIABLES\RapidEE\rapidee.exe</PathExe>
+        </Software>
+      </Category>
+      <Category name="PROCESS">
+        <Software name="procexp">
+          <PathCache>cache\5.ico</PathCache>
+          <PathExe>bin\WINDOWS\PROCESS\ProcessExplorer\procexp.exe</PathExe>
+        </Software>
+        <Software name="SystemExplorer">
+          <PathCache>cache\8.ico</PathCache>
+          <PathExe>bin\WINDOWS\PROCESS\SystemExplorer\SystemExplorer.exe</PathExe>
+        </Software>
+      </Category>
+    </Category>
+    <Category name="DISEÑO">
+      <Software name="ColorCop">
+        <PathCache>cache\9.ico</PathCache>
+        <PathExe>bin\DISEÑO\colorcop\ColorCop.exe</PathExe>
+      </Software>
+    </Category>
+    <Category name="HEXADECIMAL">
+      <Software name="HxD">
+        <PathCache>cache\15.ico</PathCache>
+        <PathExe>bin\HEXADECIMAL\HxD\HxD.exe</PathExe>
+      </Software>
+      <Software name="XVI32">
+        <PathCache>cache\17.ico</PathCache>
+        <PathExe>bin\HEXADECIMAL\xvi32\XVI32.exe</PathExe>
+      </Software>
+    </Category>
+  </Category>
+  <MRU>
+    <MRUItem0>x64dbg</MRUItem0>
+    <MRUItem1>bin</MRUItem1>
+    <MRUItem2>x32dbg</MRUItem2>
+    <MRUItem3>dnSpy</MRUItem3>
+    <MRUItem4>rapidee</MRUItem4>
+  </MRU>
+  <Option>
+    <AutoOpClCategories>1</AutoOpClCategories>
+    <StartOnWindowsStartup>1</StartOnWindowsStartup>
+    <StartUpShowPanel>1</StartUpShowPanel>
+    <StartUpShowMenu>0</StartUpShowMenu>
+    <HoldSize>0</HoldSize>
+    <MainOnTop>1</MainOnTop>
+    <Language>english.xml</Language>
+    <CustomTitle>1</CustomTitle>
+    <CustomTitleString>CrackerKit</CustomTitleString>
+    <ListFormWidth>227</ListFormWidth>
+    <ListFormHeight>442</ListFormHeight>
+    <ActiveFormCard>0</ActiveFormCard>
+    <Background>0</Background>
+    <TreeViewFontName>MS Sans Serif</TreeViewFontName>
+    <TreeViewFontSize>8</TreeViewFontSize>
+    <TreeViewFontColor>-16777208</TreeViewFontColor>
+    <HideSearch>0</HideSearch>
+    <ActiveMRU>1</ActiveMRU>
+    <ActiveSubMenuMRU>0</ActiveSubMenuMRU>
+    <MRUNumber>5</MRUNumber>
+    <ActiveBackup>1</ActiveBackup>
+    <BackupNumber>5</BackupNumber>
+    <ActiveCheckList>1</ActiveCheckList>
+    <CheckListTimeInterval>5</CheckListTimeInterval>
+    <ActiveHotKey>1</ActiveHotKey>
+    <ActiveCache>1</ActiveCache>
+    <ActiveSaveSecurity>1</ActiveSaveSecurity>
+    <ActiveAutorun>0</ActiveAutorun>
+    <ActiveScheduler>1</ActiveScheduler>
+    <ActiveTrayIcon>1</ActiveTrayIcon>
+    <TrayIconPath></TrayIconPath>
+    <ActionClickLeft>1</ActionClickLeft>
+    <ActionClickRight>2</ActionClickRight>
+    <ClassicMenu>1</ClassicMenu>
+    <MenuTheme>Default</MenuTheme>
+    <MenuFade>1</MenuFade>
+    <MenuButtons>
+      <Button0 name="Documents">
+        <PathExe>$Drive\Documents</PathExe>
+        <PathIcon>MenuThemes\Default\IconTheme\documents.ico</PathIcon>
+        <Enable>1</Enable>
+      </Button0>
+      <Button1 name="Music">
+        <PathExe>$Drive\Documents\Music</PathExe>
+        <PathIcon>MenuThemes\Default\IconTheme\music.ico</PathIcon>
+        <Enable>1</Enable>
+      </Button1>
+      <Button2 name="Pictures">
+        <PathExe>$Drive\Documents\Pictures</PathExe>
+        <PathIcon>MenuThemes\Default\IconTheme\pictures.ico</PathIcon>
+        <Enable>1</Enable>
+      </Button2>
+      <Button3 name="Video">
+        <PathExe>$Drive\Documents\Video</PathExe>
+        <PathIcon>MenuThemes\Default\IconTheme\videos.ico</PathIcon>
+        <Enable>1</Enable>
+      </Button3>
+      <Button4 name="Explore">
+        <PathExe>$Drive</PathExe>
+        <PathIcon>MenuThemes\Default\IconTheme\explore.ico</PathIcon>
+        <Enable>1</Enable>
+      </Button4>
+      <Button5 name="Button5">
+        <PathExe></PathExe>
+        <PathIcon></PathIcon>
+        <Enable>0</Enable>
+      </Button5>
+      <Button6 name="Button6">
+        <PathExe></PathExe>
+        <PathIcon></PathIcon>
+        <Enable>0</Enable>
+      </Button6>
+      <Button7 name="Button7">
+        <PathExe></PathExe>
+        <PathIcon></PathIcon>
+        <Enable>0</Enable>
+      </Button7>
+    </MenuButtons>
+    <MenuPersonalPicture>Default</MenuPersonalPicture>
+    <ActionOnExe>0</ActionOnExe>
+    <RunSingleClick>0</RunSingleClick>
+    <Mouse>
+      <SensorLeftClick0>0</SensorLeftClick0>
+      <SensorRightClick0>0</SensorRightClick0>
+      <SensorLeftClick1>0</SensorLeftClick1>
+      <SensorRightClick1>0</SensorRightClick1>
+      <SensorLeftClick2>0</SensorLeftClick2>
+      <SensorRightClick2>0</SensorRightClick2>
+      <SensorLeftClick3>0</SensorLeftClick3>
+      <SensorRightClick3>0</SensorRightClick3>
+    </Mouse>
+    <ListFormTop>488</ListFormTop>
+    <ListFormLeft>1636</ListFormLeft>
+    <ScanFolder>
+      <LastFolderPath>C:\SC\TOOLS\CRACKER\</LastFolderPath>
+      <SubFolders>1</SubFolders>
+      <RetrieveInfo>1</RetrieveInfo>
+    </ScanFolder>
+  </Option>
+</ASuite>
